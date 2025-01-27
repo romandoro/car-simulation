@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Simulation
 
 This project is a car simulation implemented in a fresh Laravel project. The simulation includes various features such as controlling doors, windows, entertainment unit, fuel management, and driving the car. The simulation processes a list of events provided in a CSV file and returns the status of the car after the last event.
